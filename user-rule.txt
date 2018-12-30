@@ -1,0 +1,19 @@
+! Put user rules line by line in this file.
+! See https://adblockplus.org/en/filter-cheatsheet
+.2dbook.com
+.gamehag.com
+.gamecode.win
+.phaser.io
+.github.com
+.reddit.com
+.4tern.com
+.githubusercontent.com
+.adorama.com
+.hrkgame.com
+.humblebundle.com
+.gamepedia.com
+.wakatime.com
+.pigav.com
+.hrkgame.com
+.humblebundle.com
+.gamepedia.com
