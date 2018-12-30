@@ -4,6 +4,20 @@
 var proxy = "__PROXY__";
 
 var rules = [
+	"||2dbook.com",
+	"||gamehag.com",
+	"||gamecode.win",
+	"||phaser.io",
+	"||github.com",
+"||reddit.com",
+
+
+	"||4tern.com",
+	"||githubusercontent.com",
+	"||adorama.com",
+	"||hrkgame.com",
+	"||humblebundle.com",
+	"||gamepedia.com",
   "|http://85.17.73.31/",
   "||agnesb.fr",
   "||akiba-web.com",
