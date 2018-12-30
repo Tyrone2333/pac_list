@@ -1,3 +1,3 @@
-
-pacÔÚÏßµØÖ·£º
+ï»¿
+pacåœ¨çº¿åœ°å€ï¼š
 https://raw.githubusercontent.com/Tyrone2333/pac_list/master/pac.txt
