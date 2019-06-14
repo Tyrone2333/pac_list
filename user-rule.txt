@@ -9,6 +9,7 @@
 .hrkgame.com
 .humblebundle.com
 .gamepedia.com
+pigav.com
 .pigav.com
 .hrkgame.com
 .humblebundle.com
@@ -17,6 +18,11 @@
 .twitch.tv
 .postcrossing.com
 .dlh.net
+.ubisoft.com
+.ubisoft.com.cn
+.ubi.com
+*.zaoshu.so
+jjb.zaoshu.so
 
 
 
@@ -35,7 +41,7 @@ socket.io
 jsfiddle.net
 .jsfiddle.net
 .jshell.net
-
+tampermonkey.net
 
 
 
