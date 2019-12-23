@@ -11,6 +11,8 @@
 .gamepedia.com
 pigav.com
 .pigav.com
+.youav.com
+.hlsmp4.com
 .hrkgame.com
 .humblebundle.com
 .gamepedia.com
@@ -23,15 +25,20 @@ pigav.com
 .ubi.com
 *.zaoshu.so
 jjb.zaoshu.so
-
-
+thepiratebay.org
+.hlsmp4.com
+.ssrcloud.com
 
 ! codeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 .wakatime.com
 .phaser.io
 .github.com
+.github.io
+github.com
 .gitbook.io
 .githubusercontent.com
+.githubassets.com
+githubassets.com
 flow.org
 .flow.org
 .jsfiddle.net
@@ -42,6 +49,11 @@ jsfiddle.net
 .jsfiddle.net
 .jshell.net
 tampermonkey.net
+.codesandbox.io
+stackoverflow.com
+.sstatic.net
+
+! 其他
 
 
 
