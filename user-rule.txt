@@ -1,5 +1,35 @@
 ! Put user rules line by line in this file.
 ! See https://adblockplus.org/en/filter-cheatsheet
+
+
+! codeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+.wakatime.com
+.phaser.io
+.github.io
+||github.com
+.gitbook.io
+.githubusercontent.com
+.githubassets.com
+.githubusercontent
+.githubapp.com
+flow.org
+.flow.org
+.jsfiddle.net
+socket.io
+.socket.io
+.npmjs.com
+jsfiddle.net
+.jsfiddle.net
+.jshell.net
+tampermonkey.net
+.codesandbox.io
+stackoverflow.com
+.sstatic.net
+.appcenter.ms
+.azureedge.net
+.pub.dev
+! codeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee END
+
 .2dbook.com
 .gamehag.com
 .gamecode.win
@@ -9,9 +39,9 @@
 .hrkgame.com
 .humblebundle.com
 .gamepedia.com
-pigav.com
-.pigav.com
+||pigav.com
 .youav.com
+||avgle.com
 .hlsmp4.com
 .hrkgame.com
 .humblebundle.com
@@ -28,32 +58,9 @@ jjb.zaoshu.so
 thepiratebay.org
 .hlsmp4.com
 .ssrcloud.com
-
-! codeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
-.wakatime.com
-.phaser.io
-.github.com
-.github.io
-github.com
-.gitbook.io
-.githubusercontent.com
-.githubassets.com
-githubassets.com
-flow.org
-.flow.org
-.jsfiddle.net
-socket.io
-.socket.io
-.npmjs.com
-jsfiddle.net
-.jsfiddle.net
-.jshell.net
-tampermonkey.net
-.codesandbox.io
-stackoverflow.com
-.sstatic.net
-
-! 其他
-
-
-
+.tonymacx86.com
+.cloudflare.com
+||qooqlevideo.com
+||v2ex.com
+||goodfrog.net
+||loli.net
