@@ -28,6 +28,7 @@ stackoverflow.com
 .appcenter.ms
 .azureedge.net
 .pub.dev
+||greasyfork.org
 ! codeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee END
 
 .2dbook.com
